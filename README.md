@@ -1,0 +1,3 @@
+# AndroidLessonRestAPISolution
+
+这里用的是Intent.ACTION_PICK，因为华为手机的Intent.ACTION_GET_CONTENT有点诡异，都是"最近"，很多文件都找不到。开相机录制视频是可以，不过开相机拍照好像有点问题
